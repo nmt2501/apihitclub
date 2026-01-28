@@ -577,7 +577,7 @@ let latest_result_100 = {
     Ket_qua: "Chưa có",
     TX_Pattern: "",
     Du_doan: "Chưa có",
-    id: "anhbantool1"
+    id: "maicutevip11"
 };
 
 let latest_result_101 = {
@@ -589,7 +589,7 @@ let latest_result_101 = {
     Ket_qua: "Chưa có",
     TX_Pattern: "",
     Du_doan: "Chưa có",
-    id: "anhbantool1"
+    id: "maicutevip11"
 };
 
 let history_100 = [];
